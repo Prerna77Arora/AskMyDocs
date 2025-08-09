@@ -1,4 +1,4 @@
-# 📄 Hackathon RAG Document QA
+# 📄 AskMyDocs
 
 An **LLM-powered Retrieval-Augmented Generation (RAG)** system that allows you to **upload documents (PDF, DOCX, TXT)**, process them into chunks, store them in a **FAISS vector database**, and query them using **OpenAI GPT models**.  
 Also includes a **HackRx demo endpoint** for automated ingestion from document URLs.
